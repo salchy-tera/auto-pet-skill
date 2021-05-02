@@ -1,0 +1,16 @@
+{
+    "author": "<font color='#00FFFF'>Salchy</font>",
+    "description": "Salchy Auto Pet Skill",
+    "disableAutoUpdate": true,
+    "disabled": false,
+    "donationUrl": "",
+    "name": "salchypetskill",
+    "options": {
+        "niceName": "<font color='#FDD017'>Salchy Auto Pet Skill</font>",
+        "guiName": "<font color='#FDD017'>Salchy Auto Pet Skill</font>",
+        "reloadable": true		
+	},
+    "servers": [""],
+    "supportUrl": "",
+    "version": "<font color='#00FFFF'>1.0.0</font>"
+}
